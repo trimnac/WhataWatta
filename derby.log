@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Mar 18 03:24:59 CST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0144-d482-1812-00000e8eaef0 
+on database directory C:\Users\tstr\Documents\NetBeansProjects\314_Final_Project\RimnacFinalDB with class loader sun.misc.Launcher$AppClassLoader@714a8f44 
+Loaded from file:/C:/Users/tstr/Downloads/db-derby-10.10.1.1-bin/db-derby-10.10.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_51-b13
+user.dir=C:\Users\tstr\Documents\NetBeansProjects\314_Final_Project
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
